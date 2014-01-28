@@ -9,7 +9,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title><?php wp_title( '|', true, 'right' ); ?></title>	
+		<title><?php wp_title( '|', true, 'right' ); ?>Solar Explorer</title>	
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 				
 		<!-- media-queries.js (fallback) -->
@@ -66,7 +66,7 @@
 			</div> <!-- end .navbar -->
 			<div class="row header-image">
 				<div class="col-md-12">
-					<img src="wp-content/themes/wordpress-bootstrap/images/header.jpg" alt="Solar Explorer Header Image" class="center-block"></img>
+					<img src="http://www.solar-explorer.de/wp-content/themes/wordpress-bootstrap/images/header.jpg" alt="Solar Explorer Header Image" class="center-block"></img>
 				</div>
 			</div>
 		</header> <!-- end header -->
