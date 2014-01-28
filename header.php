@@ -64,7 +64,11 @@
 
 				</div> <!-- end .container -->
 			</div> <!-- end .navbar -->
-		
+			<div class="row header-image">
+				<div class="col-md-12">
+					<img src="wp-content/themes/wordpress-bootstrap/images/header.jpg" alt="Solar Explorer Header Image" class="center-block"></img>
+				</div>
+			</div>
 		</header> <!-- end header -->
 		
 		<div class="container">
